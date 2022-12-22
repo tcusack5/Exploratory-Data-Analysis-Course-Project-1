@@ -47,7 +47,8 @@ For each plot you should
 
 ### Conclusion
 
-The four final plots should look as followed:
+The four final plots should look as followed: (Click on each plot for image with white background and easier viewing.)
+
 
 Plot 1 
 ![image](https://user-images.githubusercontent.com/115044647/209166115-b6d67898-0d52-41ec-a427-4d2b0d502331.png)
