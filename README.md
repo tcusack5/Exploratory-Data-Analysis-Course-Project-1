@@ -50,12 +50,15 @@ For each plot you should
 The four final plots should look as followed:
 
 Plot 1 
-![image](https://user-images.githubusercontent.com/115044647/209165405-9bd10e43-60a1-4341-861a-01cbee59661c.png)
+![image](https://user-images.githubusercontent.com/115044647/209166115-b6d67898-0d52-41ec-a427-4d2b0d502331.png)
 
 Plot 2
+![image](https://user-images.githubusercontent.com/115044647/209166155-0daf49fb-2581-4327-8bd0-b2350249697a.png)
 
 Plot 3
+![image](https://user-images.githubusercontent.com/115044647/209166188-c5c60ab8-4a4c-4839-8192-c9fde9dbbca9.png)
 
 Plot 4
+![image](https://user-images.githubusercontent.com/115044647/209166073-a0b460fb-5a53-46f1-a348-cd51b5b05d45.png)
 
 
